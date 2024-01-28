@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Eleven Fatui Harbingers</string>
+
+    <string name="harbingers_name">Harbinger\'s Name</string>
+    <string name="codename">Codename</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Pierro</item>
+        <item>Il Dottore</item>
+        <item>Columbina</item>
+        <item>Il Capitano</item>
+        <item>Pulcinella</item>
+        <item>Scaramouche</item>
+        <item>Sandrone</item>
+        <item>La Signora</item>
+        <item>Pantalone</item>
+        <item>Arlecchino</item>
+        <item>Tartaglia</item>
+    </string-array>
+
+    <string-array name="data_codename">
+        <item>The Jester</item>
+        <item>The Doctor</item>
+        <item>Damselette</item>
+        <item>The Captain</item>
+        <item>The Rooster</item>
+        <item>Balladeer</item>
+        <item>Marionette</item>
+        <item>The Fair Lady</item>
+        <item>Regrator</item>
+        <item>The Knave</item>
+        <item>Childe</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pierro is the Director of the Fatui and the very first member as well as Harbinger of the organization. It is likely that he is the First of the Eleven Fatui Harbingers, though he has never been referred to as such.</item>
+        <item>Il Dottore, also known as Zandik, is the Second of the Eleven Fatui Harbingers.</item>
+        <item>Columbina is the Third of the Eleven Fatui Harbingers.</item>
+        <item>Il Capitano is one of the Eleven Fatui Harbingers.</item>
+        <item>Pulcinella is the Fifth of the Eleven Fatui Harbingers and the Mayor of a city in Snezhnaya.</item>
+        <item>Scaramouche, also known as Kunikuzushi (Japanese: 国崩 lit. "Country Destroyer"), was the Sixth of the Eleven Fatui Harbingers and one of Genshin Impact\'s antagonists.</item>
+        <item>Sandrone is the Seventh of the Eleven Fatui Harbingers.</item>
+        <item>La Signora, also known as Rosalyne-Kruzchka Lohefalter, was the Eighth of the Eleven Fatui Harbingers, and a supporting antagonist in the early chapters of the Archon Quests. She is the first Harbinger to appear in the game when she ambushes and overpowers Venti to steal his Gnosis. Her attack leaves a lasting impression on the Traveler, who greatly distrusts the Fatui and their intentions after witnessing said event.</item>
+        <item>Pantalone, is the Ninth of the Eleven Fatui Harbingers.</item>
+        <item>Arlecchino is one of the Eleven Fatui Harbingers. She was first mentioned in the World Quest series The Very Special Fortune Slip in relation to the orphanage she runs, known as the House of the Hearth.</item>
+        <item>Tartaglia is the Eleventh of the Eleven Fatui Harbingers. Wherever he goes, danger follows, and Childe is always eager for a challenge, making him extremely dangerous despite being the youngest member.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/pierro</item>
+        <item>@drawable/il_dottore</item>
+        <item>@drawable/columbina</item>
+        <item>@drawable/il_capitano</item>
+        <item>@drawable/pulcinella</item>
+        <item>@drawable/scaramouche</item>
+        <item>@drawable/sandrone</item>
+        <item>@drawable/la_signora</item>
+        <item>@drawable/pantalone</item>
+        <item>@drawable/arlecchino</item>
+        <item>@drawable/tartaglia</item>
+    </integer-array>
+</resources>
